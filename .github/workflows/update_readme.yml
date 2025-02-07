@@ -7,6 +7,9 @@ on:
     - cron: '0 0 * * *'  # Runs every day at midnight UTC
   workflow_dispatch:  # Allows manual triggering of the workflow
 
+permissions:
+  contents: write  # Ensure the GITHUB_TOKEN has write permissions
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
