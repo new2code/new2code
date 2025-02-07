@@ -8,7 +8,6 @@ I'm Sam, and I'm looking for my first job as a **front-end developer**.
 * Communication, collaboration, empathy
 * [MLH Top 50 Hacker](https://top.mlh.io/2023)
 * GitHub Foundations Certification
-* test
 
 ## My work
 
