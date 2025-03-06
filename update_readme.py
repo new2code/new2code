@@ -10,7 +10,7 @@ response = requests.get(rss_url)
 feed = feedparser.parse(response.content)
 
 # Extract the latest three posts from the RSS feed
-latest_posts = feed.entries[:3]
+latest_posts = feed.entries[:2]
 changelog_posts = [
     f"<a href='{post.link}'>{post.title}</a>" for post in latest_posts
 ]
@@ -27,8 +27,7 @@ with open("README.md.tpl", "r") as tpl_file:
 template = Template(tpl_content)
 readme_content = template.substitute(
     changelog_post_1=changelog_posts[0],
-    changelog_post_2=changelog_posts[1],
-    changelog_post_3=changelog_posts[2]
+    changelog_post_2=changelog_posts[1]
 )
 
 # Debug print to verify the final content
