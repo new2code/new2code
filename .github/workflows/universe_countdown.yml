@@ -35,7 +35,7 @@ jobs:
       # Step 3: Commit and push the changes to the repository
       - name: Commit and Push Changes
         run: |
-          # Configure git with a bot user
+          # Configure git with new2code account
           git config --global user.name 'new2code'
           git config --global user.email 'docs-learner-profile@github.com'
           # Add the modified README.md to the staging area
