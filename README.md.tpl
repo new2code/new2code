@@ -11,7 +11,7 @@ I'm Sam, and I'm looking for my first job as a **front-end developer**.
 
 ## My work
 
-* [Hiking pace calculator](https://new2code.github.io/hiking-pace-calculator/): an interactive calculator to plan your long distance hike. I made this to showcase skills I'm building with JavaScript and HTML. 
+* [Hiking pace calculator](https://new2code.github.io/hiking-pace-calculator/): An interactive calculator to plan your long distance hike. I made this to showcase skills I'm building with JavaScript and HTML. 
 * GitHub's [Green Software Directory](https://github.com/github/GreenSoftwareDirectory): I added alt text to images in the README, making the directory more accessible for folks who use screen readers.
 
 ## GitHub's latest changelog posts
