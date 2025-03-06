@@ -1,0 +1,31 @@
+name: Update README with GitHub Universe Countdown
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          GITHUB_UNIVERSE_DATE="2025-10-28"
+          TODAY=$(date -u +"%Y-%m-%d")
+          DAYS_LEFT=$(( ($(date -d $GITHUB_UNIVERSE_DATE +%s) - $(date -d $TODAY +%s)) / 86400 ))
+          sed -i "s/##COUNTDOWN##/${DAYS_LEFT}/g" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "Update countdown timer"
+          git push
