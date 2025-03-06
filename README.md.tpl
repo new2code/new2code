@@ -6,7 +6,7 @@ I'm Sam, and I'm looking for my first job as a **front-end developer**.
 
 * Python, HTML/CSS, JavaScript
 * Communication, collaboration, empathy
-* Mona University hackathon participant
+* Winner: Mona University hackathon
 * GitHub Foundations Certification
 
 ## My work
