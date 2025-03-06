@@ -6,16 +6,20 @@ I'm Sam, and I'm looking for my first job as a **front-end developer**.
 
 * Python, HTML/CSS, JavaScript
 * Communication, collaboration, empathy
-* [MLH Top 50 Hacker](https://top.mlh.io/2023)
+* Winner: Mona University hackathon
 * GitHub Foundations Certification
 
 ## My work
 
+* [Hiking pace calculator](https://new2code.github.io/hiking-pace-calculator/): An interactive calculator to plan your long distance hike. I made this to showcase skills I'm building with JavaScript and HTML. 
 * GitHub's [Green Software Directory](https://github.com/github/GreenSoftwareDirectory): I added alt text to images in the README, making the directory more accessible for folks who use screen readers.
 
-## GitHub's latest changelog posts
-🤖 The [`update_readme.py` sript](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) update this list every day.
+## Countdown to GitHub Universe
 
-1. <a href='https://github.blog/changelog/2025-03-05-delegated-alert-dismissal-for-code-scanning-and-secret-scanning-now-available-in-public-preview'>Delegated alert dismissal for code scanning and secret scanning now available in public preview</a>
-2. <a href='https://github.blog/changelog/2025-03-04-introducing-github-secret-protection-and-github-code-security'>Introducing GitHub Secret Protection and GitHub Code Security</a>
-3. <a href='https://github.blog/changelog/2025-03-04-find-secrets-in-your-organization-with-the-secret-risk-assessment'>Find secrets in your organization with the secret risk assessment</a>
+I'm excited to attend GitHub Universe this year! Days until GitHub Universe: <span id="countdown">##COUNTDOWN##</span>
+
+## GitHub's latest changelog posts
+🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) update this list every day.
+
+1. <a href='https://github.blog/changelog/2025-03-06-copilot-chat-users-can-now-use-the-vision-input-in-vs-code-and-visual-studio-public-preview'>Copilot Chat users can now use the Vision input in VS Code and Visual Studio in public preview</a>
+2. <a href='https://github.blog/changelog/2025-03-05-delegated-alert-dismissal-for-code-scanning-and-secret-scanning-now-available-in-public-preview'>Delegated alert dismissal for code scanning and secret scanning now available in public preview</a>
