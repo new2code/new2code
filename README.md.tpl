@@ -23,4 +23,3 @@ I'm excited to attend GitHub Universe this year! Days until GitHub Universe: <sp
 
 1. $changelog_post_1
 2. $changelog_post_2
-3. $changelog_post_3
