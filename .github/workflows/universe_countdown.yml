@@ -8,6 +8,10 @@ on:
   # Allows the workflow to be manually triggered
   workflow_dispatch:
 
+# Ensure the GITHUB_TOKEN has write permissions
+permissions:
+  contents: write
+
 # Define the jobs to be run
 jobs:
   update-readme:
