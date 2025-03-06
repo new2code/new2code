@@ -16,6 +16,6 @@ I'm Sam, and I'm looking for my first job as a **front-end developer**.
 ## GitHub's latest changelog posts
 🤖 The [`update_readme.py` sript](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) update this list every day.
 
-1. <a href='https://github.blog/changelog/2025-03-04-introducing-github-secret-protection-and-github-code-security'>Introducing GitHub Secret Protection and GitHub Code Security</a>
-2. <a href='https://github.blog/changelog/2025-03-04-find-secrets-in-your-organization-with-the-secret-risk-assessment'>Find secrets in your organization with the secret risk assessment</a>
-3. <a href='https://github.blog/changelog/2025-03-04-improved-pull-request-merge-experience-is-now-generally-available'>Improved pull request merge experience is now generally available</a>
+1. <a href='https://github.blog/changelog/2025-03-05-delegated-alert-dismissal-for-code-scanning-and-secret-scanning-now-available-in-public-preview'>Delegated alert dismissal for code scanning and secret scanning now available in public preview</a>
+2. <a href='https://github.blog/changelog/2025-03-04-introducing-github-secret-protection-and-github-code-security'>Introducing GitHub Secret Protection and GitHub Code Security</a>
+3. <a href='https://github.blog/changelog/2025-03-04-find-secrets-in-your-organization-with-the-secret-risk-assessment'>Find secrets in your organization with the secret risk assessment</a>
