@@ -17,7 +17,7 @@ I'm Sam, and I'm looking for my first job as a **front-end developer**.
 ## Countdown to GitHub Universe
 🤖 The [`universe_countown.yml` GitHub Actions workflow](.github/workflows/universe_countdown.yml) updates this countdown every day.
 
-I'm excited to attend GitHub Universe this year! Days until GitHub Universe: <span id="countdown" style="color: red; font-size: 24px; font-weight: bold;">##COUNTDOWN##</span> 🎉🚀
+I'm excited to attend GitHub Universe this year! Days until GitHub Universe: <span id="countdown" style="color: red; font-size: 24px; font-weight: bold;">235</span> 🎉🚀
 
 ## GitHub's latest changelog posts
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) update this list every day.
