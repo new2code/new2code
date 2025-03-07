@@ -8,7 +8,7 @@ rss_url = "https://www.freecodecamp.org/news/rss/"
 
 # List of tags to filter by
 target_tags = [
-    "beginners guide", "beginners", "learning", "python", 
+    "beginners guide", "beginners", "learning", "python", "learn coding", "github",
     "javascript", "html", "css", "self-improvement", "git"
 ]
 

@@ -26,7 +26,7 @@ I'm Sam, and I'm looking for my first job as a **front-end developer**.
 </div>
 
 ## Latest articles from freeCodeCamp
-🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with articles for beginners.
+🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
 1. $news_post_1
 2. $news_post_2
