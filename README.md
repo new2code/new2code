@@ -21,7 +21,7 @@ I'm Sam, and I'm looking for my first job as a **front-end developer**.
 ## 🚀 Countdown to GitHub Universe
 
 **I'm excited to attend GitHub Universe this year!**
-Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font-weight:bold">##COUNTDOWN##</span>
+Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font-weight:bold">235</span>
 
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
