@@ -1,4 +1,4 @@
-# This workflow automatically updates the profile README. It runs the update_readme.py script once per day. That script builds a new README file which includes the latest changelog posts from GitHub's changelog RSS feed: https://github.blog/changelog/feed/ 
+# This workflow automatically updates the profile README. It runs the update_readme.py script once per day. That script builds a new README file which includes some recent posts from freeCodeCamp.org 
 
 name: Update profile README
 
@@ -36,7 +36,7 @@ jobs:
         git config --global user.name 'new2code'
         git config --global user.email 'docs-learner-profile@github.com'
         git add README.md
-        git commit -m 'Update README with latest changelog posts'
+        git commit -m 'Update README with latest posts'
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
