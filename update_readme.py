@@ -76,4 +76,4 @@ print(readme_content)
 with open("README.md", "w") as readme_file:
     readme_file.write(readme_content)
 
-print("README successfully updated with 2 filtered posts!")
+print("README successfully updated.")
