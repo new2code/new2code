@@ -12,6 +12,17 @@ target_tags = [
     "javascript", "html", "css", "self-improvement", "git"
 ]
 
+# First read the current README to extract the countdown value
+try:
+    with open("README.md", "r") as current_readme:
+        current_content = current_readme.read()
+        
+        # Find the current countdown value using regex
+        countdown_match = re.search(r'Days remaining: <span id="countdown" [^>]*>(\d+)</span>', current_content)
+        current_countdown = countdown_match.group(1) if countdown_match else "##COUNTDOWN##"
+except (FileNotFoundError, AttributeError):
+    current_countdown = "##COUNTDOWN##"
+
 # Fetch the RSS feed
 response = requests.get(rss_url)
 feed = feedparser.parse(response.content)
@@ -67,6 +78,9 @@ readme_content = template.substitute(
     news_post_1=news_posts[0],
     news_post_2=news_posts[1]
 )
+
+# Replace the ##COUNTDOWN## placeholder with the current countdown value
+readme_content = readme_content.replace("##COUNTDOWN##", current_countdown)
 
 # Debug print to verify the final content
 print("Updated README content:")
