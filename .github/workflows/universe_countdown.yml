@@ -8,6 +8,10 @@ on:
   # Allows the workflow to be manually triggered
   workflow_dispatch:
 
+# Ensure the GITHUB_TOKEN has write permissions
+permissions:
+  contents: write
+
 # Define the jobs to be run
 jobs:
   update-readme:
@@ -35,7 +39,7 @@ jobs:
       # Step 3: Commit and push the changes to the repository
       - name: Commit and Push Changes
         run: |
-          # Configure git with a bot user
+          # Configure git with new2code account
           git config --global user.name 'new2code'
           git config --global user.email 'docs-learner-profile@github.com'
           # Add the modified README.md to the staging area
@@ -45,4 +49,4 @@ jobs:
           # Push the changes to the repository
           git push
         env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
