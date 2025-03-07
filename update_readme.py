@@ -2,6 +2,7 @@ import requests  # Import the requests library to make HTTP requests
 import feedparser  # Import the feedparser library to parse RSS feeds
 from string import Template  # Import the Template class from the string module for template substitution
 import sys  # Import sys to exit the script if needed
+import re  # Import the regex module for extracting the countdown value
 
 # URL of the freeCodeCamp RSS feed
 rss_url = "https://www.freecodecamp.org/news/rss/"
