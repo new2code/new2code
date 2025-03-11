@@ -26,5 +26,5 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-create-a-python-siem-system-using-ai-and-llms/'>How to Create a Python SIEM System Using AI and LLMs for Log Analysis and Anomaly Detection</a> by Chaitanya Rahalkar
-2. <a href='https://www.freecodecamp.org/news/learn-machine-learning-concepts-plus-generative-ai/'>Learn Machine Learning Concepts plus Generative AI</a> by Beau Carnes
+1. <a href='https://www.freecodecamp.org/news/how-to-enforce-type-safety-in-formdata-with-typescript/'>How to Enforce Type Safety in FormData with TypeScript</a> by Olabisi Olaoye
+2. <a href='https://www.freecodecamp.org/news/how-to-create-a-python-siem-system-using-ai-and-llms/'>How to Create a Python SIEM System Using AI and LLMs for Log Analysis and Anomaly Detection</a> by Chaitanya Rahalkar
