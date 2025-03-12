@@ -28,3 +28,6 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 
 1. $news_post_1
 2. $news_post_2
+
+> [!NOTE]
+> This account is maintained by the GitHub Docs team for demonstration purposes.
