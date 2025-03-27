@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-use-pythons-built-in-profiling-tools-examples-and-best-practices/'>How to Use Python's Built-in Profiling Tools: Examples and Best Practices</a> by Vivek Sahu
-2. <a href='https://www.freecodecamp.org/news/learn-any-language-with-ai/'>Learn ANY Language with AI</a> by Beau Carnes
+1. <a href='https://www.freecodecamp.org/news/extract-youtube-analytics-data-and-analyze-in-python/'>How to Extract  YouTube Analytics Data and Analyze in Python</a> by Adejumo Ridwan Suleiman
+2. <a href='https://www.freecodecamp.org/news/how-to-use-pythons-built-in-profiling-tools-examples-and-best-practices/'>How to Use Python's Built-in Profiling Tools: Examples and Best Practices</a> by Vivek Sahu
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
