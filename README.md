@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-extend-the-django-user-model/'>How to Extend the Django User Model</a> by Udemezue John
-2. <a href='https://www.freecodecamp.org/news/how-to-use-lazygit-to-improve-your-git-workflow/'>How to Use Lazygit to Improve Your Git Workflow</a> by Rajdeep Singh
+1. <a href='https://www.freecodecamp.org/news/automate-cicd-with-github-actions-streamline-workflow/'>How to Automate CI/CD with GitHub Actions and Streamline Your Workflow</a> by Chidiadi Anyanwu
+2. <a href='https://www.freecodecamp.org/news/how-to-use-css-text-wrap-property/'>How to Use the CSS text-wrap Property to Create Balanced Text Layouts on Your Websites</a> by Azubuike Duru
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
