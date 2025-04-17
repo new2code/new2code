@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/automate-cicd-with-github-actions-streamline-workflow/'>How to Automate CI/CD with GitHub Actions and Streamline Your Workflow</a> by Chidiadi Anyanwu
-2. <a href='https://www.freecodecamp.org/news/how-to-use-css-text-wrap-property/'>How to Use the CSS text-wrap Property to Create Balanced Text Layouts on Your Websites</a> by Azubuike Duru
+1. <a href='https://www.freecodecamp.org/news/how-to-create-a-json-web-token-in-the-django-rest-framework/'>How to Create a JSON Web Token in the Django Rest Framework</a> by Udemezue John
+2. <a href='https://www.freecodecamp.org/news/how-to-build-a-rest-api-in-django/'>How to Build a REST API in Django</a> by Udemezue John
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
