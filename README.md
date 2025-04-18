@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-create-a-json-web-token-in-the-django-rest-framework/'>How to Create a JSON Web Token in the Django Rest Framework</a> by Udemezue John
-2. <a href='https://www.freecodecamp.org/news/how-to-build-a-rest-api-in-django/'>How to Build a REST API in Django</a> by Udemezue John
+1. <a href='https://www.freecodecamp.org/news/how-to-copy-objects-in-python/'>How to Copy Objects in Python</a> by Sara Jadhav
+2. <a href='https://www.freecodecamp.org/news/developers-guide-to-protecting-personal-data/'>A Developer's Guide to Protecting Personal Data: Best Practices and Tools</a> by Alex Tray
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
