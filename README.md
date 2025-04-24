@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/essential-machine-learning-concepts-animated/'>Essential Machine Learning Concepts Animated</a> by Beau Carnes
-2. <a href='https://www.freecodecamp.org/news/how-to-use-a-foreign-key-in-django/'>How to Use a Foreign Key in Django</a> by Udemezue John
+1. <a href='https://www.freecodecamp.org/news/all-about-javascript-arrays/'>All About JavaScript Arrays</a> by Beau Carnes
+2. <a href='https://www.freecodecamp.org/news/how-to-change-the-password-of-a-superuser-in-django/'>How to Change the Password of a Superuser in Django</a> by Udemezue John
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
