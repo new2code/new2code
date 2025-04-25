@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/all-about-javascript-arrays/'>All About JavaScript Arrays</a> by Beau Carnes
-2. <a href='https://www.freecodecamp.org/news/how-to-change-the-password-of-a-superuser-in-django/'>How to Change the Password of a Superuser in Django</a> by Udemezue John
+1. <a href='https://www.freecodecamp.org/news/what-is-q-in-django-and-why-its-super-useful/'>What Is Q in Django? (And Why It's Super Useful)</a> by Udemezue John
+2. <a href='https://www.freecodecamp.org/news/all-about-javascript-arrays/'>All About JavaScript Arrays</a> by Beau Carnes
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
