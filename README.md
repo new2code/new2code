@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-a-production-ready-devops-pipeline-with-free-tools/'>How to Build a Production-Ready DevOps Pipeline with Free Tools</a> by Opaluwa Emidowojo
-2. <a href='https://www.freecodecamp.org/news/how-to-enable-cors-in-django/'>How to Enable CORS in Django</a> by Udemezue John
+1. <a href='https://www.freecodecamp.org/news/how-to-register-models-in-django-admin/'>How to Register Models in Django Admin</a> by Udemezue John
+2. <a href='https://www.freecodecamp.org/news/how-to-build-a-production-ready-devops-pipeline-with-free-tools/'>How to Build a Production-Ready DevOps Pipeline with Free Tools</a> by Opaluwa Emidowojo
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
