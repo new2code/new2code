@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/learn-object-oriented-programming-in-typescript/'>Learn Object-Oriented Programming in TypeScript</a> by Lucas
-2. <a href='https://www.freecodecamp.org/news/how-to-become-an-analytical-programmer-compare-five-projects/'>How to Become an Analytical Programmer – Solve the "Rock, Paper, Scissors" Game 5 Ways Using JavaScript & Mermaid.js</a> by evaristo.c
+1. <a href='https://www.freecodecamp.org/news/how-javascript-lint-rules-work-and-why-abstract-syntax-trees-matter/'>How JavaScript Lint Rules Work (and Why Abstract Syntax Trees Matter)</a> by Tilda Udufo
+2. <a href='https://www.freecodecamp.org/news/learn-langgraph-and-build-conversational-ai-with-python/'>Learn LangGraph and Build Conversational AI with Python</a> by Beau Carnes
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
