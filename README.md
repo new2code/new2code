@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-javascript-lint-rules-work-and-why-abstract-syntax-trees-matter/'>How JavaScript Lint Rules Work (and Why Abstract Syntax Trees Matter)</a> by Tilda Udufo
-2. <a href='https://www.freecodecamp.org/news/learn-langgraph-and-build-conversational-ai-with-python/'>Learn LangGraph and Build Conversational AI with Python</a> by Beau Carnes
+1. <a href='https://www.freecodecamp.org/news/build-a-multilayer-perceptron-with-examples-and-python-code/'>Learn to Build a Multilayer Perceptron with Real-Life Examples and Python Code</a> by Kuriko Iwai
+2. <a href='https://www.freecodecamp.org/news/how-microfrontends-work-iframes-to-module-federation/'>How Microfrontends Work: From iframes to Module Federation</a> by Rahul gupta
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
