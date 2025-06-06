@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/the-open-source-llm-agent-handbook/'>The Open Source LLM Agent Handbook: How to Automate Complex Tasks with LangGraph and CrewAI</a> by Balajee Asish Brahmandam
-2. <a href='https://www.freecodecamp.org/news/the-front-end-monitoring-handbook/'>The Front-End Monitoring Handbook: Track Performance, Errors, and User Behavior</a> by Gordan Tan
+1. <a href='https://www.freecodecamp.org/news/from-commit-to-production-hands-on-gitops-promotion-with-github-actions-argo-cd-helm-and-kargo/'>From Commit to Production: Hands-On GitOps Promotion with GitHub Actions, Argo CD, Helm, and Kargo</a> by Nitheesh Poojary
+2. <a href='https://www.freecodecamp.org/news/the-open-source-llm-agent-handbook/'>The Open Source LLM Agent Handbook: How to Automate Complex Tasks with LangGraph and CrewAI</a> by Balajee Asish Brahmandam
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
