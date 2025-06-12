@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/deploy-to-vercel-with-github-actions/'>How To Deploy To Vercel With GitHub Actions</a> by Chidiadi Anyanwu
-2. <a href='https://www.freecodecamp.org/news/complete-micro-frontends-guide/'>The Micro-Frontend Architecture Handbook</a> by Andrew Maksimchenko
+1. <a href='https://www.freecodecamp.org/news/how-attackers-steal-data-from-websites-and-how-to-stop-them/'>How Attackers Steal Data from Websites (And How to Stop Them)</a> by Alex Tray
+2. <a href='https://www.freecodecamp.org/news/deploy-to-vercel-with-github-actions/'>How To Deploy a Next.js App To Vercel With GitHub Actions</a> by Chidiadi Anyanwu
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
