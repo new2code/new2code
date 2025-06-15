@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/the-nestjs-handbook-learn-to-use-nest-with-code-examples/'>The NestJS Handbook – Learn to Use Nest with Code Examples</a> by German Cocca
-2. <a href='https://www.freecodecamp.org/news/how-attackers-steal-data-from-websites-and-how-to-stop-them/'>How Attackers Steal Data from Websites (And How to Stop Them)</a> by Alex Tray
+1. <a href='https://www.freecodecamp.org/news/learn-mlops-by-creating-a-youtube-sentiment-analyzer/'>Learn MLOps by Creating a YouTube Sentiment Analyzer</a> by Beau Carnes
+2. <a href='https://www.freecodecamp.org/news/the-nestjs-handbook-learn-to-use-nest-with-code-examples/'>The NestJS Handbook – Learn to Use Nest with Code Examples</a> by German Cocca
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
