@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/learn-mlops-by-creating-a-youtube-sentiment-analyzer/'>Learn MLOps by Creating a YouTube Sentiment Analyzer</a> by Beau Carnes
-2. <a href='https://www.freecodecamp.org/news/the-nestjs-handbook-learn-to-use-nest-with-code-examples/'>The NestJS Handbook – Learn to Use Nest with Code Examples</a> by German Cocca
+1. <a href='https://www.freecodecamp.org/news/an-animated-introduction-to-programming-with-python/'>An Animated Introduction to Programming with Python</a> by Mark Mahoney
+2. <a href='https://www.freecodecamp.org/news/learn-mlops-by-creating-a-youtube-sentiment-analyzer/'>Learn MLOps by Creating a YouTube Sentiment Analyzer</a> by Beau Carnes
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
