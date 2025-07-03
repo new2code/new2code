@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/when-to-use-asyncawait-vs-promises-in-javascript/'>When to Use Async/Await vs Promises in JavaScript</a> by Henry Adepegba
-2. <a href='https://www.freecodecamp.org/news/how-to-use-the-view-transition-api/'>How to Use the View Transition API for Better Web Transitions</a> by Sumit Saha
+1. <a href='https://www.freecodecamp.org/news/how-to-set-goals-using-the-path-framework/'>How to Stop Chasing Productivity and Start Moving with Purpose</a> by Brandon Wozniewicz
+2. <a href='https://www.freecodecamp.org/news/when-to-use-asyncawait-vs-promises-in-javascript/'>When to Use Async/Await vs Promises in JavaScript</a> by Henry Adepegba
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
