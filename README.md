@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/build-a-word-search-game-using-html-css-and-javascript/'>How to Build a Word Search Game Using HTML, CSS, and JavaScript</a> by Mark Mahoney
-2. <a href='https://www.freecodecamp.org/news/the-javascript-error-handling-handbook/'>The JavaScript Error Handling Handbook</a> by Tapas Adhikary
+1. <a href='https://www.freecodecamp.org/news/how-to-revert-a-migration-in-django/'>How to Revert a Migration in Django</a> by Udemezue John
+2. <a href='https://www.freecodecamp.org/news/protect-github-repos-from-malicious-clones/'>How to Protect Your GitHub Repos Against Malicious Clones</a> by brooklyn
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
