@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/shadcn-ui-dropdown-menu/'>How to Make a Dropdown Menu with shadcn/ui</a> by Ajay Kalal
-2. <a href='https://www.freecodecamp.org/news/how-ai-agents-remember-things-vector-stores-in-llm-memory/'>How AI Agents Remember Things: The Role of Vector Stores in LLM Memory</a> by Manish Shivanandhan
+1. <a href='https://www.freecodecamp.org/news/how-to-deploy-a-static-web-app-on-aws-with-amplify-lambda-api-gateway-and-dynamodb/'>How to Deploy a Static Web App on AWS with Amplify, Lambda, API Gateway, & DynamoDB</a> by Raju Manoj
+2. <a href='https://www.freecodecamp.org/news/shadcn-ui-dropdown-menu/'>How to Make a Dropdown Menu with shadcn/ui</a> by Ajay Kalal
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
