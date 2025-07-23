@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-simpler-accordion-menus-with-html-details/'>How to Build Simpler Accordion Menus with HTML <details></a> by Ophy Boamah
-2. <a href='https://www.freecodecamp.org/news/how-to-build-a-telehealth-app-using-stream-video-and-chat-sdk-in-react/'>How to Build a Telehealth App Using Stream Video and Chat SDK in React</a> by Okoro Emmanuel Nzube
+1. <a href='https://www.freecodecamp.org/news/implement-vgg-from-scratch-with-pytorch-deep-learning-theory/'>Implement VGG From Scratch with PyTorch – Deep Learning Theory</a> by Beau Carnes
+2. <a href='https://www.freecodecamp.org/news/how-to-build-simpler-accordion-menus-with-html-details/'>How to Build Simpler Accordion Menus with HTML <details></a> by Ophy Boamah
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
