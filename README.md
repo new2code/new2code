@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/a-beginner-developers-guide-to-scrum/'>A Beginner Developer's Guide to Scrum</a> by Aditya Vikram Kashyap
-2. <a href='https://www.freecodecamp.org/news/implement-vgg-from-scratch-with-pytorch-deep-learning-theory/'>Implement VGG From Scratch with PyTorch – Deep Learning Theory</a> by Beau Carnes
+1. <a href='https://www.freecodecamp.org/news/how-to-build-database-seed-scripts-for-your-node-application/'>How to Build Database Seed Scripts for Your Node Application</a> by Tope Fasasi
+2. <a href='https://www.freecodecamp.org/news/a-beginner-developers-guide-to-scrum/'>A Beginner Developer's Guide to Scrum</a> by Aditya Vikram Kashyap
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
