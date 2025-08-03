@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/extract-insights-from-text-using-named-entity-recognition/'>How to Extract Insights from Text Using Named Entity Recognition (NER)</a> by Manish Shivanandhan
-2. <a href='https://www.freecodecamp.org/news/shared-state-complexity-in-react-handbook/'>Shared State Complexity in React – A Complete Handbook for Developers</a> by Henry Adepegba
+1. <a href='https://www.freecodecamp.org/news/how-to-deploy-a-nextjs-api-to-production-using-sevalla/'>How to Deploy a Next.js API to Production using Sevalla</a> by Manish Shivanandhan
+2. <a href='https://www.freecodecamp.org/news/extract-insights-from-text-using-named-entity-recognition/'>How to Extract Insights from Text Using Named Entity Recognition (NER)</a> by Manish Shivanandhan
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
