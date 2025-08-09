@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/choose-the-right-language-js-vs-c-sharp/'>JavaScript vs C#: How to Choose the Right Language as a Beginner</a> by Manish Shivanandhan
-2. <a href='https://www.freecodecamp.org/news/how-to-implement-zero-trust-authentication-in-your-web-apps/'>How to Implement Zero-Trust Authentication in Your Web Apps</a> by Tope Fasasi
+1. <a href='https://www.freecodecamp.org/news/how-to-fix-the-python-enoent-error-when-setting-up-mcp-servers-a-complete-guide/'>How to Fix the Python ENOENT Error When Setting Up MCP Servers – A Complete Guide</a> by Idris Olubisi
+2. <a href='https://www.freecodecamp.org/news/learn-time-series-forecasting-in-python/'>Learn Time Series Forecasting in Python</a> by Beau Carnes
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
