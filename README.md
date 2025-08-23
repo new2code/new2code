@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-a-tic-tac-toe-game-with-phaserjs/'>How to Build a Tic Tac Toe Game with Phaser.js</a> by Manish Shivanandhan
-2. <a href='https://www.freecodecamp.org/news/create-a-real-time-gesture-to-text-translator/'>How to Create a Real-Time Gesture-to-Text Translator Using Python and Mediapipe</a> by OMOTAYO OMOYEMI
+1. <a href='https://www.freecodecamp.org/news/how-to-automate-flutter-testing-and-builds-with-github-actions-for-android-and-ios/'>How to Automate Flutter Testing and Builds with GitHub Actions for Android and iOS</a> by Atuoha Anthony
+2. <a href='https://www.freecodecamp.org/news/how-to-build-a-tic-tac-toe-game-with-phaserjs/'>How to Build a Tic Tac Toe Game with Phaser.js</a> by Manish Shivanandhan
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
