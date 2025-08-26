@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-automate-flutter-testing-and-builds-with-github-actions-for-android-and-ios/'>How to Automate Flutter Testing and Builds with GitHub Actions for Android and iOS</a> by Atuoha Anthony
-2. <a href='https://www.freecodecamp.org/news/how-to-build-a-tic-tac-toe-game-with-phaserjs/'>How to Build a Tic Tac Toe Game with Phaser.js</a> by Manish Shivanandhan
+1. <a href='https://www.freecodecamp.org/news/how-to-build-an-advice-generator-chrome-extension-with-manifest-v3/'>How to Build an Advice Generator Chrome Extension with Manifest V3</a> by Ophy Boamah
+2. <a href='https://www.freecodecamp.org/news/how-webgl-and-threejs-power-interactive-online-stores/'>How WebGL and Three.js Power Interactive Online Stores</a> by Ajay Kalal
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
