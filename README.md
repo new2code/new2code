@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-a-machine-learning-system-on-serverless-architecture/'>How to Build a Machine Learning System on Serverless Architecture</a> by Kuriko Iwai
-2. <a href='https://www.freecodecamp.org/news/how-to-build-an-advice-generator-chrome-extension-with-manifest-v3/'>How to Build an Advice Generator Chrome Extension with Manifest V3</a> by Ophy Boamah
+1. <a href='https://www.freecodecamp.org/news/create-3d-web-experiences-with-javascript-and-threejs/'>Create 3D Web Experiences with JavaScript and Three.js</a> by Beau Carnes
+2. <a href='https://www.freecodecamp.org/news/how-to-break-free-from-tutorial-hell/'>How to Break Free from Tutorial Hell: A Practical Guide</a> by Andrew Ezeani
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
