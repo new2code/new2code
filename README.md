@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-your-ai-demos-with-gradio/'>How to Build Your AI Demos with Gradio</a> by Manish Shivanandhan
-2. <a href='https://www.freecodecamp.org/news/create-3d-web-experiences-with-javascript-and-threejs/'>Create 3D Web Experiences with JavaScript and Three.js</a> by Beau Carnes
+1. <a href='https://www.freecodecamp.org/news/how-to-build-a-snake-game-using-phaserjs/'>How to Build a Snake Game using Phaser.js</a> by Manish Shivanandhan
+2. <a href='https://www.freecodecamp.org/news/how-to-build-your-ai-demos-with-gradio/'>How to Build Your AI Demos with Gradio</a> by Manish Shivanandhan
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
