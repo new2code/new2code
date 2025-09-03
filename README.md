@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/build-ai-accessibility-tools-with-python/'>How to Build AI Speech-to-Text and Text-to-Speech Accessibility Tools with Python</a> by OMOTAYO OMOYEMI
-2. <a href='https://www.freecodecamp.org/news/how-to-build-a-snake-game-using-phaserjs/'>How to Build a Snake Game using Phaser.js</a> by Manish Shivanandhan
+1. <a href='https://www.freecodecamp.org/news/common-open-source-contribution-myths-debunked/'>Common Open Source Contribution Myths – Debunked</a> by Orim Dominic Adah
+2. <a href='https://www.freecodecamp.org/news/build-ai-accessibility-tools-with-python/'>How to Build AI Speech-to-Text and Text-to-Speech Accessibility Tools with Python</a> by OMOTAYO OMOYEMI
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
