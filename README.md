@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-an-ai-study-planner-agent-using-gemini-in-python/'>How to Build an AI Study Planner Agent using Gemini in Python</a> by Tarun Singh
-2. <a href='https://www.freecodecamp.org/news/introducing-freecodecamp-daily-python-and-javascript-challenges-solve-a-new-programming-puzzle-every-day/'>Introducing freeCodeCamp Daily Python and JavaScript Challenges – Solve a New Programming Puzzle Every Day</a> by Tom Mondloch
+1. <a href='https://www.freecodecamp.org/news/build-production-ready-web-apps-with-hono/'>How to Build Production-Ready Web Apps with the Hono Framework: A Deep Dive</a> by Mayur Vekariya
+2. <a href='https://www.freecodecamp.org/news/build-smart-expense-tracker-with-python-and-llms/'>How to Build a Smart Expense Tracker with Python and LLMs</a> by Happiness Omale
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
