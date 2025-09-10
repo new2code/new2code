@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/build-production-ready-web-apps-with-hono/'>How to Build Production-Ready Web Apps with the Hono Framework: A Deep Dive</a> by Mayur Vekariya
-2. <a href='https://www.freecodecamp.org/news/build-smart-expense-tracker-with-python-and-llms/'>How to Build a Smart Expense Tracker with Python and LLMs</a> by Happiness Omale
+1. <a href='https://www.freecodecamp.org/news/how-to-automate-api-documentation-updates-with-github-actions-and-openapi-specifications/'>How to Automate API Documentation Updates with GitHub Actions and OpenAPI Specifications</a> by EZINNE ANNE EMILIA
+2. <a href='https://www.freecodecamp.org/news/build-production-ready-web-apps-with-hono/'>How to Build Production-Ready Web Apps with the Hono Framework: A Deep Dive</a> by Mayur Vekariya
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
