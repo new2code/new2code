@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/understanding-transformer-models-for-language-processing/'>Understanding Transformer Models for Language Processing</a> by Oyedele Tioluwani
-2. <a href='https://www.freecodecamp.org/news/why-every-student-should-join-hackathons/'>Why Every Student Should Join Hackathons</a> by Tech With RJ
+1. <a href='https://www.freecodecamp.org/news/run-python-gui-in-github-codespaces/'>How to Run Python GUI Apps in GitHub Codespaces with Xvfb and noVNC</a> by Ayodele Aransiola
+2. <a href='https://www.freecodecamp.org/news/how-transformer-models-work-for-language-processing/'>How Transformer Models Work for Language Processing</a> by Oyedele Tioluwani
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
