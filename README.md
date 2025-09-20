@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/build-a-multimodal-translator-for-accessible-education/'>How to Build a Multimodal Makaton-to-English Translator for Accessible Education</a> by OMOTAYO OMOYEMI
-2. <a href='https://www.freecodecamp.org/news/code-your-own-code-editor/'>Code Your Own Code Editor</a> by Beau Carnes
+1. <a href='https://www.freecodecamp.org/news/how-to-tokenize-text-in-python/'>How to Tokenize Text in Python — Explained with Code Examples</a> by AYUSH MISHRA
+2. <a href='https://www.freecodecamp.org/news/a-brief-introduction-to-sqlite/'>A Brief Introduction to SQLite</a> by Mark Mahoney
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
