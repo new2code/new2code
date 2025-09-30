@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-use-github-from-the-command-line/'>What is the GitHub CLI? How to Use GitHub from the Command Line</a> by AYUSH MISHRA
-2. <a href='https://www.freecodecamp.org/news/build-and-deploy-an-image-hosting-service-on-sevalla/'>How to Build and Deploy an Image Hosting Service on Sevalla</a> by Manish Shivanandhan
+1. <a href='https://www.freecodecamp.org/news/how-does-the-morgan-library-work/'>How Does the Morgan Express Middleware Library Work? Explained with Code Examples</a> by Orim Dominic Adah
+2. <a href='https://www.freecodecamp.org/news/how-to-use-github-from-the-command-line/'>What is the GitHub CLI? How to Use GitHub from the Command Line</a> by AYUSH MISHRA
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
