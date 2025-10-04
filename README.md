@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/build-an-ai-coding-agent-with-python-and-gemini/'>How to Build an AI Coding Agent with Python and Gemini</a> by Lane Wagner
-2. <a href='https://www.freecodecamp.org/news/machine-learning-vs-deep-learning-vs-generative-ai/'>Machine Learning vs Deep Learning vs Generative AI - What are the Differences?</a> by Nitheesh Poojary
+1. <a href='https://www.freecodecamp.org/news/build-a-rate-limiter-with-redis-and-python/'>How to Build a Rate Limiter with Redis and Python to Scale Your Apps</a> by Sravan Karuturi
+2. <a href='https://www.freecodecamp.org/news/build-an-ai-coding-agent-with-python-and-gemini/'>How to Build an AI Coding Agent with Python and Gemini</a> by Lane Wagner
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
