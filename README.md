@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/build-a-rate-limiter-with-redis-and-python/'>How to Build a Rate Limiter with Redis and Python to Scale Your Apps</a> by Sravan Karuturi
-2. <a href='https://www.freecodecamp.org/news/build-an-ai-coding-agent-with-python-and-gemini/'>How to Build an AI Coding Agent with Python and Gemini</a> by Lane Wagner
+1. <a href='https://www.freecodecamp.org/news/how-to-forecast-time-series-data-with-python-darts/'>How to Forecast Time Series Data with Python Darts</a> by Adejumo Ridwan Suleiman
+2. <a href='https://www.freecodecamp.org/news/using-transformers-for-real-time-gesture-recognition/'>How to Use Transformers for Real-Time Gesture Recognition</a> by OMOTAYO OMOYEMI
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
