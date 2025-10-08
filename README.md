@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-forecast-time-series-data-with-python-darts/'>How to Forecast Time Series Data with Python Darts</a> by Adejumo Ridwan Suleiman
-2. <a href='https://www.freecodecamp.org/news/using-transformers-for-real-time-gesture-recognition/'>How to Use Transformers for Real-Time Gesture Recognition</a> by OMOTAYO OMOYEMI
+1. <a href='https://www.freecodecamp.org/news/how-to-build-an-adaptive-tic-tac-toe-ai-with-reinforcement-learning-in-javascript/'>How to Build an Adaptive Tic-Tac-Toe AI with Reinforcement Learning in JavaScript</a> by Mayur Vekariya
+2. <a href='https://www.freecodecamp.org/news/how-to-forecast-time-series-data-with-python-darts/'>How to Forecast Time Series Data with Python Darts</a> by Adejumo Ridwan Suleiman
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
