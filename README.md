@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/machine-learning-tutorial-how-to-program-without-creating-your-own-algorithms/'>Machine Learning Tutorial: How to Program Without Creating Your Own Algorithms</a> by Mark Mahoney
-2. <a href='https://www.freecodecamp.org/news/compound-components-pattern-in-react/'>How to Use the Compound Components Pattern in React: Prop Soup to Flexible UIs</a> by Tapas Adhikary
+1. <a href='https://www.freecodecamp.org/news/how-to-build-end-to-end-machine-learning-lineage/'>How to Build End-to-End Machine Learning Lineage</a> by Kuriko Iwai
+2. <a href='https://www.freecodecamp.org/news/firebase-rbac-custom-claims-rules/'>How to Create Role-Based Access Control (RBAC) with Custom Claims Using Firebase Rules</a> by Ayodele Aransiola
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
