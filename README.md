@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-parse-ini-config-files-in-python-with-configparser/'>How to Parse INI Config Files in Python with Configparser</a> by Bala Priya C
-2. <a href='https://www.freecodecamp.org/news/how-to-build-end-to-end-machine-learning-lineage/'>How to Build End-to-End Machine Learning Lineage</a> by Kuriko Iwai
+1. <a href='https://www.freecodecamp.org/news/how-to-create-and-style-tables-with-vanilla-javascript/'>How to Create and Style Tables with Vanilla JavaScript</a> by Md. Fahim Bin Amin
+2. <a href='https://www.freecodecamp.org/news/how-to-parse-ini-config-files-in-python-with-configparser/'>How to Parse INI Config Files in Python with Configparser</a> by Bala Priya C
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
