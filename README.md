@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-work-with-toml-files-in-python/'>How to Work with TOML Files in Python</a> by Bala Priya C
-2. <a href='https://www.freecodecamp.org/news/react-handbook-for-beginners-learn-jsx-hooks-rendering/'>The React Handbook for Beginners – JSX, Hooks, and Rendering Explained</a> by Oluwatobi Sofela
+1. <a href='https://www.freecodecamp.org/news/how-to-build-a-crud-app-with-tanstack-start-and-tanstackdb-with-rxdb-integration/'>How to Build a CRUD App with TanStack Start and TanStackDB (with RxDB Integration)</a> by Andrew Baisden
+2. <a href='https://www.freecodecamp.org/news/how-to-work-with-toml-files-in-python/'>How to Work with TOML Files in Python</a> by Bala Priya C
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
