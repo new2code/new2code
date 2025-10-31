@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/build-a-website-screenshot-generator-with-python-and-flask/'>Build a Website Screenshot Generator with Python and Flask</a> by Ashutosh Krishna
-2. <a href='https://www.freecodecamp.org/news/how-to-build-a-chrome-extension-using-javascript-and-manifest-v3/'>How to Build a Chrome Extension That Analyzes Any Web Page Using JavaScript and Manifest V3</a> by Hitesh Chauhan
+1. <a href='https://www.freecodecamp.org/news/how-to-build-your-own-mcp-server-with-python/'>How to Build Your Own MCP Server with Python</a> by Manish Shivanandhan
+2. <a href='https://www.freecodecamp.org/news/how-to-parse-json-in-python-with-examples/'>How to Parse JSON in Python – A Complete Guide With Examples</a> by Bala Priya C
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
