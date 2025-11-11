@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-use-langchain-and-langgraph-a-beginners-guide-to-ai-workflows/'>How to Use LangChain and LangGraph: A Beginner’s Guide to AI Workflows</a> by Manish Shivanandhan
-2. <a href='https://www.freecodecamp.org/news/event-based-architectures-in-javascript-a-handbook-for-devs/'>Event-Based Architectures in JavaScript: A Handbook for Devs</a> by German Cocca
+1. <a href='https://www.freecodecamp.org/news/learn-vuejs-javascript-framework-course/'>Learn Vue.js – JavaScript Framework Course</a> by Beau Carnes
+2. <a href='https://www.freecodecamp.org/news/how-to-structure-your-readme-file/'>How to Structure Your README File – README Template Example</a> by Casmir Onyekani
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
