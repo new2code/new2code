@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-create-fluid-animations-with-react-native-reanimated-v4/'>How to Create Fluid Animations with React Native Reanimated v4</a> by Balogun Wahab
-2. <a href='https://www.freecodecamp.org/news/how-to-implement-dependency-injection-in-fastapi/'>How to Implement Dependency Injection in FastAPI</a> by Nneoma Uche
+1. <a href='https://www.freecodecamp.org/news/level-up-your-javascript-detect-smells-and-write-clean-code/'>Level Up Your JavaScript – Detect Smells & Write Clean Code</a> by Beau Carnes
+2. <a href='https://www.freecodecamp.org/news/how-to-create-fluid-animations-with-react-native-reanimated-v4/'>How to Create Fluid Animations with React Native Reanimated v4</a> by Balogun Wahab
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
