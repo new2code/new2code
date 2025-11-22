@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/create-a-cute-room-portfolio-with-threejs-blender-javascript/'>Create a Cute Room Portfolio with Three.js, Blender, JavaScript</a> by Beau Carnes
-2. <a href='https://www.freecodecamp.org/news/level-up-your-javascript-detect-smells-and-write-clean-code/'>JavaScript Clean Code Course – How to Detect Code Smells and Refactor Accordingly</a> by Beau Carnes
+1. <a href='https://www.freecodecamp.org/news/how-to-manage-your-python-projects-with-poetry/'>How to Manage Your Python Projects with Poetry</a> by Manish Shivanandhan
+2. <a href='https://www.freecodecamp.org/news/how-to-use-the-django-rest-framework/'>How to Use the Django REST Framework - Build Backend APIs with DRF</a> by Mari
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
