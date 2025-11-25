@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-manage-your-python-projects-with-poetry/'>How to Manage Your Python Projects with Poetry</a> by Manish Shivanandhan
-2. <a href='https://www.freecodecamp.org/news/how-to-use-the-django-rest-framework/'>How to Use the Django REST Framework - Build Backend APIs with DRF</a> by Mari
+1. <a href='https://www.freecodecamp.org/news/simplify-react-components-with-derived-state/'>How to Simplify Your React Components with Derived State</a> by Olaleye Blessing
+2. <a href='https://www.freecodecamp.org/news/how-to-manage-your-python-projects-with-poetry/'>How to Manage Your Python Projects with Poetry</a> by Manish Shivanandhan
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
