@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/simplify-react-components-with-derived-state/'>How to Simplify Your React Components with Derived State</a> by Olaleye Blessing
-2. <a href='https://www.freecodecamp.org/news/how-to-manage-your-python-projects-with-poetry/'>How to Manage Your Python Projects with Poetry</a> by Manish Shivanandhan
+1. <a href='https://www.freecodecamp.org/news/learn-css-flexbox-for-beginners-free-2-hour-course/'>Learn CSS Flexbox for Beginners [Free 2-hour course]</a> by Quincy Larson
+2. <a href='https://www.freecodecamp.org/news/how-closures-work-in-javascript-a-handbook-for-developers/'>How Closures Work in JavaScript: A Handbook for Developers</a> by Sumit Saha
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
