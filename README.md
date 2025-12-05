@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-set-up-cuda-and-wsl2-for-windows-11-including-pytorch-and-tensorflow-gpu/'>How to Set Up CUDA and WSL2 for Windows 11 (including PyTorch and TensorFlow GPU)</a> by Md. Fahim Bin Amin
-2. <a href='https://www.freecodecamp.org/news/how-to-build-your-first-mcp-server-using-fastmcp/'>How to Build Your First MCP Server using FastMCP</a> by Manish Shivanandhan
+1. <a href='https://www.freecodecamp.org/news/git-and-github-crash-course-for-beginners/'>Git & GitHub Crash Course for Beginners</a> by Beau Carnes
+2. <a href='https://www.freecodecamp.org/news/become-an-ai-researcher/'>Become an AI Researcher</a> by Beau Carnes
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
