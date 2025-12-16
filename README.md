@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/learn-how-to-use-git-and-github-a-beginner-friendly-handbook/'>Learn How to Use Git and GitHub – A Beginner-Friendly Handbook</a> by Sumit Saha
-2. <a href='https://www.freecodecamp.org/news/how-to-use-the-optimistic-ui-pattern-with-the-useoptimistic-hook-in-react/'>How to Use the Optimistic UI Pattern with the useOptimistic() Hook in React</a> by Tapas Adhikary
+1. <a href='https://www.freecodecamp.org/news/freecodecamps-new-python-certification-is-now-live/'>freeCodeCamp's New Python Certification is Now Live</a> by Jessica Wilkins
+2. <a href='https://www.freecodecamp.org/news/learn-how-to-use-git-and-github-a-beginner-friendly-handbook/'>Learn How to Use Git and GitHub – A Beginner-Friendly Handbook</a> by Sumit Saha
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
