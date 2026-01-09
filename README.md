@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-an-embeddable-ai-chatbot-widget-with-cloudflare-workers/'>How to Build an Embeddable AI Chatbot Widget with Cloudflare Workers</a> by Mayur Vekariya
-2. <a href='https://www.freecodecamp.org/news/build-a-support-agent-with-vercel-ai-sdk/'>Build a Support Agent with Vercel AI SDK</a> by Beau Carnes
+1. <a href='https://www.freecodecamp.org/news/how-to-not-be-overwhelmed-by-ai/'>How to Not Be Overwhelmed by AI – A Developer’s Guide to Using AI Tools Effectively</a> by Atuoha Anthony
+2. <a href='https://www.freecodecamp.org/news/neural-networks-explained-using-y-ax-b/'>How Neural Networks Work – Explained Using the Straight Line Equation y = ax + b</a> by Samyukta Hegde
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
