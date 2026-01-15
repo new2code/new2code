@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-an-in-memory-rate-limiter-in-nextjs/'>How to Build an In-Memory Rate Limiter in Next.js</a> by Orim Dominic Adah
-2. <a href='https://www.freecodecamp.org/news/how-to-build-your-first-shopify-app-a-beginners-guide/'>How to Build Your First Shopify App: A Beginner’s Guide</a> by Manish Shivanandhan
+1. <a href='https://www.freecodecamp.org/news/how-to-use-tailwind-sidebar-npm-package-in-react-nextjs/'>How to Use the tailwind-sidebar NPM Package in Your React and Next.js Apps</a> by Hitesh Chauhan
+2. <a href='https://www.freecodecamp.org/news/how-to-work-with-the-orc-file-format-in-python-a-guide-with-examples/'>How to Work with the ORC File Format in Python – A Guide with Examples</a> by Bala Priya C
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
