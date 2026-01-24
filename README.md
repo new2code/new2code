@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-a-singleton-in-python-and-why-you-probably-shouldnt/'>How to Build a Singleton in Python (and Why You Probably Shouldn't)</a> by Bala Priya C
-2. <a href='https://www.freecodecamp.org/news/how-execution-context-works-in-javascript-handbook/'>How Execution Context Works in JavaScript – A Handbook for Devs</a> by Sumit Saha
+1. <a href='https://www.freecodecamp.org/news/how-to-work-with-pdf-files-in-python-a-pypdf-guide/'>How to Work with PDF Files in Python: A PyPDF Guide</a> by Manish Shivanandhan
+2. <a href='https://www.freecodecamp.org/news/how-to-build-a-singleton-in-python-and-why-you-probably-shouldnt/'>How to Build a Singleton in Python (and Why You Probably Shouldn't)</a> by Bala Priya C
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
