@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-go-from-hello-world-to-building-real-world-applications/'>How to Go From Hello World to Building Real World Applications</a> by Spruce Emmanuel
-2. <a href='https://www.freecodecamp.org/news/how-to-use-the-builder-pattern-in-python-a-practical-guide-for-devs/'>How to Use the Builder Pattern in Python – A Practical Guide for Developers</a> by Bala Priya C
+1. <a href='https://www.freecodecamp.org/news/python-resume-screening-system/'>How to Build a Résumé Screening System Using Python and Multiprocessing</a> by Abdul Talha
+2. <a href='https://www.freecodecamp.org/news/how-to-optimize-pyspark-jobs-handbook/'>How to Optimize PySpark Jobs: Real-World Scenarios for Understanding Logical Plans</a> by Sameer Shukla
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
