@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-use-the-factory-pattern-in-python-a-practical-guide/'>How to Use the Factory Pattern in Python - A Practical Guide</a> by Bala Priya C
-2. <a href='https://www.freecodecamp.org/news/how-to-save-multiple-drafts-in-git-a-guide-to-using-stash/'>How to Save Multiple Drafts in Git: A Guide to Using Stash</a> by Chidiadi Anyanwu
+1. <a href='https://www.freecodecamp.org/news/how-to-build-ai-agents-that-remember-user-preferences-without-breaking-context/'>How to Build AI Agents That Remember User Preferences (Without Breaking Context)</a> by Nataraj Sundar
+2. <a href='https://www.freecodecamp.org/news/how-to-use-the-factory-pattern-in-python-a-practical-guide/'>How to Use the Factory Pattern in Python - A Practical Guide</a> by Bala Priya C
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
