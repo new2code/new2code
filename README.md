@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-ai-agents-that-remember-user-preferences-without-breaking-context/'>How to Build AI Agents That Remember User Preferences (Without Breaking Context)</a> by Nataraj Sundar
-2. <a href='https://www.freecodecamp.org/news/how-to-use-the-factory-pattern-in-python-a-practical-guide/'>How to Use the Factory Pattern in Python - A Practical Guide</a> by Bala Priya C
+1. <a href='https://www.freecodecamp.org/news/the-modern-react-data-fetching-handbook-suspense-use-and-errorboundary-explained/'>The Modern React Data Fetching Handbook: Suspense, use(), and ErrorBoundary Explained</a> by Tapas Adhikary
+2. <a href='https://www.freecodecamp.org/news/how-to-build-a-real-time-public-speaking-and-presentation-coach/'>How to Build a Real-Time Public Speaking and Presentation Coach</a> by Timothy Olanrewaju
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
