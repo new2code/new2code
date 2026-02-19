@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-use-alphaearth-for-similarity-search-in-google-earth-engine/'>How to Use AlphaEarth for Similarity Search in Google Earth Engine</a> by Pablo Rios
-2. <a href='https://www.freecodecamp.org/news/how-to-take-machine-learning-beyond-python-notebooks-with-these-helpful-tools/'>How to Take Machine Learning Beyond Python Notebooks with These Helpful Tools</a> by Oyedele Tioluwani
+1. <a href='https://www.freecodecamp.org/news/how-to-implement-the-observer-pattern-in-python/'>How to Implement the Observer Pattern in Python</a> by Bala Priya C
+2. <a href='https://www.freecodecamp.org/news/how-to-use-alphaearth-for-similarity-search-in-google-earth-engine/'>How to Use AlphaEarth for Similarity Search in Google Earth Engine</a> by Pablo Rios
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
