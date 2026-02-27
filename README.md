@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-an-llm-market-copilot-mvp-with-langchain-apis-and-streamlit/'>How to Build an LLM Market Copilot MVP with LangChain, APIs, and Streamlit</a> by Nikhil Adithyan
-2. <a href='https://www.freecodecamp.org/news/build-and-deploy-multi-agent-ai-with-python-and-docker/'>How to Build and Deploy a Multi-Agent AI System with Python and Docker</a> by Balajee Asish Brahmandam
+1. <a href='https://www.freecodecamp.org/news/learn-python-and-build-autonomous-agents/'>Learn Python and Build Autonomous Agents</a> by Beau Carnes
+2. <a href='https://www.freecodecamp.org/news/how-to-build-an-llm-market-copilot-mvp-with-langchain-apis-and-streamlit/'>How to Build an LLM Market Copilot MVP with LangChain, APIs, and Streamlit</a> by Nikhil Adithyan
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
