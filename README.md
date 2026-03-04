@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/loom-clone-next-javascript-mux/'>Build a Loom Clone with Next.js 15 and Mux</a> by Beau Carnes
-2. <a href='https://www.freecodecamp.org/news/learn-python-and-build-autonomous-agents/'>Learn Python and Build Autonomous Agents</a> by Beau Carnes
+1. <a href='https://www.freecodecamp.org/news/learning-to-enjoy-code-reviews-with-npmx/'>OSS Pull Request Therapy: Learning to Enjoy Code Reviews with npmx</a> by Abbey Perini
+2. <a href='https://www.freecodecamp.org/news/loom-clone-next-javascript-mux/'>Build a Loom Clone with Next.js 15 and Mux</a> by Beau Carnes
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
