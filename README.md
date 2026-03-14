@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/recursion-in-python-intro-for-beginners/'>Recursion in Python – A Practical Introduction for Beginners</a> by Bala Priya C
-2. <a href='https://www.freecodecamp.org/news/how-to-create-a-table-of-contents-for-your-article/'>How to Create a Table of Contents for Your Article</a> by Jakub T. Jankiewicz
+1. <a href='https://www.freecodecamp.org/news/containerize-mlops-pipeline-from-training-to-serving/'>How to Containerize Your MLOps Pipeline from Training to Serving</a> by Balajee Asish Brahmandam
+2. <a href='https://www.freecodecamp.org/news/recursion-in-python-intro-for-beginners/'>Recursion in Python – A Practical Introduction for Beginners</a> by Bala Priya C
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
