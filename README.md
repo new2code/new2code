@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/build-rag-app-faiss-fastapi/'>How to Ship a Production-Ready RAG App with FAISS (Guardrails, Evals, and Fallbacks)</a> by Chidozie Managwu
-2. <a href='https://www.freecodecamp.org/news/containerize-mlops-pipeline-from-training-to-serving/'>How to Containerize Your MLOps Pipeline from Training to Serving</a> by Balajee Asish Brahmandam
+1. <a href='https://www.freecodecamp.org/news/build-end-to-end-ml-platform-locally-from-experiment-tracking-to-cicd/'>How to Build an End-to-End ML Platform Locally: From Experiment Tracking to CI/CD</a> by Sandeep Bharadwaj Mannapur
+2. <a href='https://www.freecodecamp.org/news/how-to-implement-gitops-on-kubernetes-using-argo-cd/'>How to Implement GitOps on Kubernetes Using Argo CD</a> by Olumoko Moses
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
