@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/atomic-and-functional-css/'>How Atomic CSS and Functional Programming Are Related</a> by Ramazan Maksyutov
-2. <a href='https://www.freecodecamp.org/news/how-to-build-a-production-ready-flutter-ci-cd-pipeline-with-github-actions-quality-gates-environments-and-store-deployment/'>How to Build a Production-Ready Flutter CI/CD Pipeline with GitHub Actions: Quality Gates, Environments, and Store Deployment</a> by Oluwaseyi Fatunmole
+1. <a href='https://www.freecodecamp.org/news/how-to-use-the-command-pattern-in-python/'>How to Use the Command Pattern in Python</a> by Bala Priya C
+2. <a href='https://www.freecodecamp.org/news/how-to-use-mlflow-to-manage-your-machine-learning-lifecycle/'>How to Use MLflow to Manage Your Machine Learning Lifecycle</a> by Temitope Oyedele
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
