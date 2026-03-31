@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/token-bucket-rate-limiting-fastapi/'>How to Implement Token Bucket Rate Limiting with FastAPI</a> by Prosper Ugbovo
-2. <a href='https://www.freecodecamp.org/news/what-happened-when-i-replaced-copilot-with-claude-code-for-2-weeks/'>What Happened When I Replaced Copilot with Claude Code for 2 Weeks</a> by Balajee Asish Brahmandam
+1. <a href='https://www.freecodecamp.org/news/how-to-build-a-qr-code-generator-using-javascript/'>How to Build a QR Code Generator Using JavaScript – A Step-by-Step Guide</a> by Bhavin Sheth
+2. <a href='https://www.freecodecamp.org/news/token-bucket-rate-limiting-fastapi/'>How to Implement Token Bucket Rate Limiting with FastAPI</a> by Prosper Ugbovo
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
