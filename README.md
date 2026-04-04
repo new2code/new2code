@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/full-stack-saas-tanstack-start-elysia-neon/'>How to Build a Full-Stack SaaS App with TanStack Start, Elysia, and Neon</a> by Magnus Rødseth
-2. <a href='https://www.freecodecamp.org/news/how-to-build-a-local-seo-audit-agent-with-browser-use-and-claude-api/'>How to Build a Local SEO Audit Agent with Browser Use and Claude API</a> by Daniel Nwaneri
+1. <a href='https://www.freecodecamp.org/news/build-and-deploy-a-fitness-tracker-using-python-django-and-pythonanywhere/'>How to Build and Deploy a Fitness Tracker Using Python Django and PythonAnywhere - A Beginner Friendly Guide</a> by Prabodh Tuladhar
+2. <a href='https://www.freecodecamp.org/news/how-to-build-a-barcode-generator/'>How to Build a Barcode Generator Using JavaScript (Step-by-Step)</a> by Bhavin Sheth
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
