@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/build-and-deploy-a-fitness-tracker-using-python-django-and-pythonanywhere/'>How to Build and Deploy a Fitness Tracker Using Python Django and PythonAnywhere - A Beginner Friendly Guide</a> by Prabodh Tuladhar
-2. <a href='https://www.freecodecamp.org/news/how-to-build-a-barcode-generator/'>How to Build a Barcode Generator Using JavaScript (Step-by-Step)</a> by Bhavin Sheth
+1. <a href='https://www.freecodecamp.org/news/how-to-go-from-toy-api-calls-to-production-ready-networking-in-javascript/'>How to Go from Toy API Calls to Production-Ready Networking in JavaScript</a> by Gabor Koos
+2. <a href='https://www.freecodecamp.org/news/how-to-build-and-secure-a-personal-ai-agent-with-openclaw/'>How to Build and Secure a Personal AI Agent with OpenClaw</a> by Rudrendu Paul
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
