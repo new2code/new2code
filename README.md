@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/master-ai-drone-programming/'>Master AI Drone Programming</a> by Beau Carnes
-2. <a href='https://www.freecodecamp.org/news/how-the-mixture-of-experts-architecture-works-in-ai-models/'>How the Mixture of Experts Architecture Works in AI Models</a> by Manish Shivanandhan
+1. <a href='https://www.freecodecamp.org/news/the-webcodecs-handbook-native-video-processing-in-the-browser/'>The WebCodecs Handbook: Native Video Processing in the Browser</a> by Sam Bhattacharyya
+2. <a href='https://www.freecodecamp.org/news/master-ai-drone-programming/'>Master AI Drone Programming</a> by Beau Carnes
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
