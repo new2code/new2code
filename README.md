@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-a-secure-ai-pr-reviewer-with-claude-github-actions-and-javascript/'>How to Build a Secure AI PR Reviewer with Claude, GitHub Actions, and JavaScript</a> by Sumit Saha
-2. <a href='https://www.freecodecamp.org/news/build-a-positioning-based-crude-oil-strategy-in-python/'>How to Build a Positioning-Based Crude Oil Strategy in Python [Full Handbook]</a> by Nikhil Adithyan
+1. <a href='https://www.freecodecamp.org/news/how-to-keep-human-experts-visible-in-your-ai-assisted-codebase/'>How to Keep Human Experts Visible in Your AI-Assisted Codebase</a> by Daniel Nwaneri
+2. <a href='https://www.freecodecamp.org/news/efficient-data-processing-in-python-batch-vs-streaming-pipelines/'>Efficient Data Processing in Python: Batch vs Streaming Pipelines Explained</a> by Bala Priya C
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
