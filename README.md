@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/a-developers-guide-to-lazy-loading-in-react-and-nextjs/'>A Developer’s Guide to Lazy Loading in React and Next.js</a> by David Aniebo
-2. <a href='https://www.freecodecamp.org/news/how-to-build-a-fashion-app-to-organize-your-wardrobe/'>How to Build a Fashion App That Helps You Organize Your Wardrobe</a> by Mokshita V P
+1. <a href='https://www.freecodecamp.org/news/how-to-generate-pdf-files-in-the-browser-using-javascript/'>How to Generate PDF Files in the Browser Using JavaScript (With a Real Invoice Example)</a> by Bhavin Sheth
+2. <a href='https://www.freecodecamp.org/news/a-developers-guide-to-lazy-loading-in-react-and-nextjs/'>A Developer’s Guide to Lazy Loading in React and Next.js</a> by David Aniebo
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
