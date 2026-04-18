@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-an-open-source-data-lake-for-batch-ingestion/'>How to Build an Open Source Data Lake for Batch Ingestion</a> by Puneet Singh
-2. <a href='https://www.freecodecamp.org/news/how-to-generate-pdf-files-in-the-browser-using-javascript/'>How to Generate PDF Files in the Browser Using JavaScript (With a Real Invoice Example)</a> by Bhavin Sheth
+1. <a href='https://www.freecodecamp.org/news/how-to-use-context-hub-chub-to-build-a-companion-relevance-engine/'>How to Use Context Hub (chub) to Build a Companion Relevance Engine</a> by Nataraj Sundar
+2. <a href='https://www.freecodecamp.org/news/how-to-build-an-open-source-data-lake-for-batch-ingestion/'>How to Build an Open Source Data Lake for Batch Ingestion</a> by Puneet Singh
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
