@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/why-many-beginner-self-taught-developers-struggle-and-what-to-do-about-it/'>Why Many Beginner Self-Taught Developers Struggle (And What to Do About It)</a> by Great John
-2. <a href='https://www.freecodecamp.org/news/how-to-build-a-headless-wordpress-frontend-with-astro-ssr-on-cloudflare-pages/'>How to Build a Headless WordPress Frontend with Astro SSR on Cloudflare Pages</a> by Tech With RJ
+1. <a href='https://www.freecodecamp.org/news/how-to-create-a-gpu-optimized-machine-image-with-hashicorp-packer-on-gcp/'>How to Create a GPU-Optimized Machine Image with HashiCorp Packer on GCP</a> by Rasheedat Atinuke Jamiu
+2. <a href='https://www.freecodecamp.org/news/how-to-fix-failing-github-pr-ci-lint-build-errors/'>How to Fix a Failing GitHub PR: Debugging CI, Lint Errors, and Build Errors Step by Step</a> by qacheampong
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
