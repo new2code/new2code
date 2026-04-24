@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-create-a-gpu-optimized-machine-image-with-hashicorp-packer-on-gcp/'>How to Create a GPU-Optimized Machine Image with HashiCorp Packer on GCP</a> by Rasheedat Atinuke Jamiu
-2. <a href='https://www.freecodecamp.org/news/how-to-fix-failing-github-pr-ci-lint-build-errors/'>How to Fix a Failing GitHub PR: Debugging CI, Lint Errors, and Build Errors Step by Step</a> by qacheampong
+1. <a href='https://www.freecodecamp.org/news/why-ab-testing-breaks-in-ai-rollouts-and-how-to-fix-it/'>Product Experimentation for AI Rollouts: Why A/B Testing Breaks and How Difference-in-Differences in Python Fixes It</a> by Rudrendu Paul
+2. <a href='https://www.freecodecamp.org/news/how-to-create-a-gpu-optimized-machine-image-with-hashicorp-packer-on-gcp/'>How to Create a GPU-Optimized Machine Image with HashiCorp Packer on GCP</a> by Rasheedat Atinuke Jamiu
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
