@@ -26,9 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-deploy-a-full-stack-next-js-app-on-cloudflare-workers-with-github-actions-ci-cd/'>How to Deploy a Full-Stack Next.js App on Cloudflare Workers with GitHub Actions CI/CD</a> by Md Tarikul Islam
-2. <a href='https://www.freecodecamp.org/news/freecodecamp-15-certifications-in-4-months-high-school/'>How I Completed 15 freeCodeCamp Certifications in 4 Months: 
-A Structured Learning Journey</a> by Mohammed Fahd Abrah
+1. <a href='https://www.freecodecamp.org/news/deploying-serverless-spam-classifier/'>How to Deploy a Serverless Spam Classifier Using Scikit-Learn, AWS Lambda, & API Gateway</a> by Rakshath Naik
+2. <a href='https://www.freecodecamp.org/news/how-to-deploy-a-full-stack-next-js-app-on-cloudflare-workers-with-github-actions-ci-cd/'>How to Deploy a Full-Stack Next.js App on Cloudflare Workers with GitHub Actions CI/CD</a> by Md Tarikul Islam
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
