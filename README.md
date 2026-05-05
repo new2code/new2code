@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/product-experimentation-with-propensity-scores-causal-inference-for-llm-based-features-in-python/'>Product Experimentation with Propensity Scores: Causal Inference for LLM-Based Features in Python</a> by Rudrendu Paul
-2. <a href='https://www.freecodecamp.org/news/deploying-serverless-spam-classifier/'>How to Deploy a Serverless Spam Classifier Using Scikit-Learn, AWS Lambda, & API Gateway</a> by Rakshath Naik
+1. <a href='https://www.freecodecamp.org/news/how-to-compress-pdf-files-in-the-browser-using-javascript/'>How to Compress PDF Files in the Browser Using JavaScript (Step-by-Step)</a> by Bhavin Sheth
+2. <a href='https://www.freecodecamp.org/news/product-experimentation-with-propensity-scores-causal-inference-for-llm-based-features-in-python/'>Product Experimentation with Propensity Scores: Causal Inference for LLM-Based Features in Python</a> by Rudrendu Paul
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
