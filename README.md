@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/ai-paper-review-improving-language-understanding-by-generative-pre-training-gpt-1/'>AI Paper Review: Improving Language Understanding by Generative Pre-Training (GPT-1)</a> by Mohammed Fahd Abrah
-2. <a href='https://www.freecodecamp.org/news/how-to-build-a-market-research-copilot-with-mcp-and-python-handbook/'>How to Build a Market Research Copilot with MCP and Python [Full Handbook]</a> by Nikhil Adithyan
+1. <a href='https://www.freecodecamp.org/news/how-to-convert-images-to-pdf-using-javascript/'>How to Convert Images to PDF in the Browser Using JavaScript – A Step-by-Step Guide</a> by Bhavin Sheth
+2. <a href='https://www.freecodecamp.org/news/gen-ai-product-experimentation-with-regression-discontinuity-design/'>Product Experimentation with Regression Discontinuity: How an LLM Confidence Threshold Creates a Natural Experiment in Python</a> by Rudrendu Paul
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
