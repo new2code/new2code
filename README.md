@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/product-experimentation-with-synthetic-control-causal-inference-for-global-llm-rollouts-in-python/'>Product Experimentation with Synthetic Control: Causal Inference for Global LLM Rollouts in Python</a> by Rudrendu Paul
-2. <a href='https://www.freecodecamp.org/news/pdf-to-image-converter/'>How to Build a Browser-Based PDF to Image Converter Using JavaScript</a> by Bhavin Sheth
+1. <a href='https://www.freecodecamp.org/news/tools-digital-nomads-need-in-2026/'>7 Tools Digital Nomads Need in 2026</a> by Manish Shivanandhan
+2. <a href='https://www.freecodecamp.org/news/build-a-calculator-with-tkinter-in-python/'>How to Build a Calculator with Tkinter in Python</a> by Sara Jadhav
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
