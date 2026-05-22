@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/build-a-pdf-watermark-tool-in-javascript/'>How to Build a Browser-Based PDF Watermark Tool Using JavaScript</a> by Bhavin Sheth
-2. <a href='https://www.freecodecamp.org/news/how-to-clean-time-series-data-in-python/'>How to Clean Time Series Data in Python</a> by Bala Priya C
+1. <a href='https://www.freecodecamp.org/news/how-to-use-github-search-like-a-pro/'>How to Use GitHub Search Like a Pro</a> by Rajdeep Singh
+2. <a href='https://www.freecodecamp.org/news/think-like-the-javascript-engine/'>Think Like the JavaScript Engine</a> by Beau Carnes
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
