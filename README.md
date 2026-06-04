@@ -26,8 +26,9 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/beyond-nvidia-where-the-ai-infra-trade-actually-shows-up/'>Beyond NVIDIA: Where the AI Infra Trade Actually Shows Up</a> by Nikhil Adithyan
-2. <a href='https://www.freecodecamp.org/news/build-pdf-page-numbering-tool-javascript/'>How to Build a PDF Page Numbering Tool in the Browser Using JavaScript</a> by Bhavin Sheth
+1. <a href='https://www.freecodecamp.org/news/ai-paper-review-training-language-models-to-follow-instructions-with-human-feedback-instructgpt/'>AI Paper Review: Training Language Models to Follow Instructions
+with Human Feedback (InstructGPT)</a> by Mohammed Fahd Abrah
+2. <a href='https://www.freecodecamp.org/news/how-to-understand-the-safe-integer-limit-in-javascript/'>How to Understand the Safe Integer Limit in JavaScript</a> by Ayodele Aransiola
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
