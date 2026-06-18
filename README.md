@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-a-production-safe-agent-loop-from-exit-conditions-to-audit-trails/'>How to Build a Production-Safe Agent Loop: From Exit Conditions to Audit Trails</a> by Daniel Nwaneri
-2. <a href='https://www.freecodecamp.org/news/ai-paper-review-chain-of-thought-prompting-elicits-reasoning-in-large-language-models/'>AI Paper Review: Chain-of-Thought Prompting Elicits Reasoning in Large Language Models</a> by Mohammed Fahd Abrah
+1. <a href='https://www.freecodecamp.org/news/how-to-build-a-production-architecture-for-small-language-model-fleets/'>How to Build a Production Architecture for Small Language Model Fleets</a> by Tejas Ashok
+2. <a href='https://www.freecodecamp.org/news/how-to-build-a-production-safe-agent-loop-from-exit-conditions-to-audit-trails/'>How to Build a Production-Safe Agent Loop: From Exit Conditions to Audit Trails</a> by Daniel Nwaneri
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
