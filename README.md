@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-analyze-analyst-estimate-ranges-with-python/'>How to Analyze Analyst Estimate Ranges with Python</a> by Nikhil Adithyan
-2. <a href='https://www.freecodecamp.org/news/how-to-handle-small-context-window-limits-in-rag-systems/'>How to Handle Small Context Window Limits in RAG Systems</a> by Sviatoslav Barbutsa
+1. <a href='https://www.freecodecamp.org/news/how-to-build-an-ai-powered-local-first-chrome-extension/'>How to Build an AI-Powered, Local-First Chrome Extension That Turns Your Browsing History into an Intent Map</a> by Shola Jegede
+2. <a href='https://www.freecodecamp.org/news/how-to-analyze-analyst-estimate-ranges-with-python/'>How to Analyze Analyst Estimate Ranges with Python</a> by Nikhil Adithyan
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
