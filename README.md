@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-an-ai-powered-local-first-chrome-extension/'>How to Build an AI-Powered, Local-First Chrome Extension That Turns Your Browsing History into an Intent Map</a> by Shola Jegede
-2. <a href='https://www.freecodecamp.org/news/how-to-analyze-analyst-estimate-ranges-with-python/'>How to Analyze Analyst Estimate Ranges with Python</a> by Nikhil Adithyan
+1. <a href='https://www.freecodecamp.org/news/what-to-do-when-reflection-won-t-fix-your-ai-agent-s-output/'>What to Do When Reflection Won't Fix Your AI Agent's Output</a> by Manish Ramavat
+2. <a href='https://www.freecodecamp.org/news/how-to-turn-performance-audits-into-ai-fix-prompts-with-a-devtools-extension/'>How to Turn Performance Audits into AI Fix Prompts with a DevTools Extension</a> by Olamilekan Lamidi
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
