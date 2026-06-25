@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/from-llms-to-langchain-understanding-how-modern-ai-applications-actually-work/'>From LLMs to LangChain: Understanding How Modern AI Applications Actually Work</a> by Sudheesh Shetty
-2. <a href='https://www.freecodecamp.org/news/what-to-do-when-reflection-won-t-fix-your-ai-agent-s-output/'>What to Do When Reflection Won't Fix Your AI Agent's Output</a> by Manish Ramavat
+1. <a href='https://www.freecodecamp.org/news/how-to-build-a-browser-based-pdf-reverse-tool-javascript/'>How to Build a Browser-Based PDF Reverse Tool Using JavaScript</a> by Bhavin Sheth
+2. <a href='https://www.freecodecamp.org/news/how-to-build-secure-by-default-node-js-apis/'>How to Build Secure-by-Default Node.js APIs</a> by Devlin Duldulao
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
