@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-bloom-filters-work-build-one-from-scratch-python/'>How a Bloom Filter Works: Build One From Scratch in Python</a> by Prasanth Madhurapantula
-2. <a href='https://www.freecodecamp.org/news/build-a-personal-ai-web-research-agent-with-ollama-and-qwen/'>How to Build a Personal AI Web Research Agent with Ollama and Qwen</a> by Darsh Shah
+1. <a href='https://www.freecodecamp.org/news/switchback-experiments-for-ai-platform-features-in-python/'>Product Experimentation for LLM Platforms: Switchback Designs When User Randomization Breaks Market Equilibrium in Python</a> by Rudrendu Paul
+2. <a href='https://www.freecodecamp.org/news/build-pdf-resizer-javascript/'>How to Build a Browser-Based PDF Resizer Using JavaScript</a> by Bhavin Sheth
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
