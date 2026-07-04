@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/stop-early-without-p-hacking-using-msprt-and-sequential-testing-in-python/'>Product Experimentation: Stop Early Without P-Hacking Using mSPRT and Sequential Testing in Python</a> by Rudrendu Paul
-2. <a href='https://www.freecodecamp.org/news/mastering-javascript-dates-and-times/'>Mastering JavaScript Dates and Times</a> by Beau Carnes
+1. <a href='https://www.freecodecamp.org/news/build-pdf-analyzer-javascript/'>How to Build a Browser-Based PDF Analyzer Using JavaScript</a> by Bhavin Sheth
+2. <a href='https://www.freecodecamp.org/news/shopify-ajax-cart-drawer/'>How to Build an AJAX Cart Drawer in Shopify (the 2026 Way)</a> by baslefeber
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
