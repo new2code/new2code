@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/uplift-modeling-for-personalized-ai-rollouts-in-python/'>Product Experimentation with Uplift Modeling: Targeting Your LLM Feature Rollout to Users Who Actually Benefit (Python Implementation)</a> by Rudrendu Paul
-2. <a href='https://www.freecodecamp.org/news/how-to-turn-a-postman-collection-into-a-maintainable-pytest-suite/'>How to Turn a Postman Collection into a Maintainable pytest Suite</a> by Mikhail Golikov
+1. <a href='https://www.freecodecamp.org/news/how-to-build-and-schedule-local-ai-assistants-for-daily-tasks/'>How to Build and Schedule Local AI Assistants for Daily Tasks</a> by Darsh Shah
+2. <a href='https://www.freecodecamp.org/news/build-pdf-image-extractor-javascript/'>How to Build a Browser-Based PDF Image Extractor Using JavaScript</a> by Bhavin Sheth
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
