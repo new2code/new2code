@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-and-schedule-local-ai-assistants-for-daily-tasks/'>How to Build and Schedule Local AI Assistants for Daily Tasks</a> by Darsh Shah
-2. <a href='https://www.freecodecamp.org/news/build-pdf-image-extractor-javascript/'>How to Build a Browser-Based PDF Image Extractor Using JavaScript</a> by Bhavin Sheth
+1. <a href='https://www.freecodecamp.org/news/how-to-build-your-first-multi-agent-ai-system-in-python-and-langgraph/'>How to Build Your First Multi-Agent AI System in Python and LangGraph</a> by Darsh Shah
+2. <a href='https://www.freecodecamp.org/news/containerize-a-node-js-app-with-docker-and-deploy-with-github-actions/'>How to Containerize a Node.js Application with Docker and Deploy with GitHub Actions</a> by Zia Ullah
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
