@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/a-beginner-s-guide-to-python-hands-on-projects-to-get-you-coding/'>A Beginner's Guide to Python: Hands-On Projects to Get You Coding</a> by Beau Carnes
-2. <a href='https://www.freecodecamp.org/news/intro-to-shaders-javascript-and-p5-js-course-for-beginners/'>Intro to Shaders: JavaScript and p5.js Course for Beginners</a> by Beau Carnes
+1. <a href='https://www.freecodecamp.org/news/how-to-evaluate-ai-agents-with-an-llm-as-a-judge-harness-in-python/'>How to Evaluate AI Agents with an LLM-as-a-Judge Harness in Python</a> by Darsh Shah
+2. <a href='https://www.freecodecamp.org/news/how-to-create-accessible-modals-and-pop-ups-using-html-css-and-minimal-javascript/'>How to Create Accessible Modals and Pop-ups Using HTML, CSS, and Minimal JavaScript</a> by jabo Landry
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
