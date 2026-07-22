@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/'>How to Use Apple’s Foundation Models in a Web App with a macOS Companion</a> by Balogun Wahab
-2. <a href='https://www.freecodecamp.org/news/build-pdf-signature-tool-javascript/'>How to Build a Browser-Based PDF Signature Tool Using JavaScript</a> by Bhavin Sheth
+1. <a href='https://www.freecodecamp.org/news/how-to-serve-a-multi-user-ai-agent-with-fastapi-and-streamlit/'>How to Serve a Multi-User AI Agent with FastAPI and Streamlit</a> by Darsh Shah
+2. <a href='https://www.freecodecamp.org/news/how-to-use-apple-s-foundation-models-in-a-web-app-with-a-macos-companion/'>How to Use Apple’s Foundation Models in a Web App with a macOS Companion</a> by Balogun Wahab
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
