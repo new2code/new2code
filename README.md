@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/counterfactual-meta-learners-for-llm-prompt-decisions/'>Product Experiment Counterfactual Methods for Estimating the Effects of AI Prompt Engineering</a> by Rudrendu Paul
-2. <a href='https://www.freecodecamp.org/news/how-to-run-an-ai-extractability-audit/'>How to Run an AI Extractability Audit on Your Site (I Found 6 Heading Tags That Cost Me Citations)</a> by Chudi Nnorukam
+1. <a href='https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/'>How to Build a Browser-Based PDF Blur Tool Using JavaScript</a> by Bhavin Sheth
+2. <a href='https://www.freecodecamp.org/news/how-to-use-prompt-engineering-and-context-engineering-for-ai-agents/'>How to Use Prompt Engineering and Context Engineering for AI Agents</a> by Darsh Shah
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
