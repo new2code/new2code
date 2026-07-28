@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/'>How to Build a Browser-Based PDF Blur Tool Using JavaScript</a> by Bhavin Sheth
-2. <a href='https://www.freecodecamp.org/news/how-to-use-prompt-engineering-and-context-engineering-for-ai-agents/'>How to Use Prompt Engineering and Context Engineering for AI Agents</a> by Darsh Shah
+1. <a href='https://www.freecodecamp.org/news/the-etl-pipeline-handbook-how-to-build-a-production-grade-pipeline-in-python/'>The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python</a> by brooklyn
+2. <a href='https://www.freecodecamp.org/news/build-pdf-blur-tool-javascript/'>How to Build a Browser-Based PDF Blur Tool Using JavaScript</a> by Bhavin Sheth
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
