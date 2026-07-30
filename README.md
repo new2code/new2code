@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/a-guide-to-modern-react-form-architecture-tanstack-form-zod-shadcn/'>A Guide to Modern React Form Architecture: TanStack Form + Zod + Shadcn</a> by Tapas Adhikary
-2. <a href='https://www.freecodecamp.org/news/the-etl-pipeline-handbook-how-to-build-a-production-grade-pipeline-in-python/'>The ETL Pipeline Handbook: How to Build a Production-Grade Pipeline in Python</a> by brooklyn
+1. <a href='https://www.freecodecamp.org/news/instrumental-variables-for-llm-routing-in-python/'>Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python</a> by Rudrendu Paul
+2. <a href='https://www.freecodecamp.org/news/build-ai-applications-that-switch-models-automatically/'>How to Build AI Applications That Switch Models Automatically</a> by Chidiebere Njoku
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
