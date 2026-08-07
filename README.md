@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/why-your-quantum-circuit-works-in-a-simulator-but-fails-on-real-hardware/'>Why Your Quantum Circuit Works in a Simulator but Fails on Real Hardware</a> by Casmir Onyekani
-2. <a href='https://www.freecodecamp.org/news/instrumental-variables-for-llm-routing-in-python/'>Product Experimentation with Instrumental Variables: Unconfounding LLM Routing Decisions in Python</a> by Rudrendu Paul
+1. <a href='https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/'>How to Harden GitHub Actions Permissions with Least Privilege by Default</a> by ILYAS RUFAI
+2. <a href='https://www.freecodecamp.org/news/build-pdf-color-inverter-tool-javascript/'>How to Build a Browser-Based PDF Color Inverter Tool Using JavaScript</a> by Bhavin Sheth
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
