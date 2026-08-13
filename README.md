@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-add-dynamic-features-to-a-static-site-without-a-server/'>How to Add Dynamic Features to a Static Site Without a Server</a> by Manish Shivanandhan
-2. <a href='https://www.freecodecamp.org/news/how-to-harden-github-actions-permissions/'>How to Harden GitHub Actions Permissions with Least Privilege by Default</a> by ILYAS RUFAI
+1. <a href='https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/'>How to Build a Browser-Based PDF Filter Studio with JavaScript</a> by Bhavin Sheth
+2. <a href='https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/'>Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features</a> by Rudrendu Paul
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
