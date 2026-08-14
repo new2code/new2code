@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/build-pdf-filter-studio-javascript/'>How to Build a Browser-Based PDF Filter Studio with JavaScript</a> by Bhavin Sheth
-2. <a href='https://www.freecodecamp.org/news/causal-inference-at-scale-with-case-studies/'>Product Experimentation at Scale: How Airbnb, Netflix, Lyft, and Uber run Causal Inference on LLM-Based AI Features</a> by Rudrendu Paul
+1. <a href='https://www.freecodecamp.org/news/how-to-create-a-kyc-onboarding-flow-with-shadcn-ui/'>How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI</a> by Vaibhav Gupta
+2. <a href='https://www.freecodecamp.org/news/how-the-chrome-dino-game-works/'>How the Chrome Dino Game Works Under the Hood: A Tour of Chromium's Source Code</a> by Alex Oliinyk
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
