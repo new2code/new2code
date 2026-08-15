@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-create-a-kyc-onboarding-flow-with-shadcn-ui/'>How to Create a Scalable KYC Onboarding Flow in React with Shadcn UI</a> by Vaibhav Gupta
-2. <a href='https://www.freecodecamp.org/news/how-the-chrome-dino-game-works/'>How the Chrome Dino Game Works Under the Hood: A Tour of Chromium's Source Code</a> by Alex Oliinyk
+1. <a href='https://www.freecodecamp.org/news/how-to-build-a-basic-discord-bot-with-python/'>How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python</a> by Eva J Patel
+2. <a href='https://www.freecodecamp.org/news/build-a-multi-agent-trading-research-system-with-langchain-deep-agents-handbook/'>How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]</a> by Nikhil Adithyan
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
