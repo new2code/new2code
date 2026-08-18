@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-a-basic-discord-bot-with-python/'>How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python</a> by Eva J Patel
-2. <a href='https://www.freecodecamp.org/news/build-a-multi-agent-trading-research-system-with-langchain-deep-agents-handbook/'>How to Build a Multi-Agent Trading Research System with LangChain Deep Agents [Full Handbook]</a> by Nikhil Adithyan
+1. <a href='https://www.freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output/'>How to Manage Context Files in Your Codebase and Get Better Output From AI Coding Agents</a> by Kayode Adeniyi
+2. <a href='https://www.freecodecamp.org/news/how-to-build-a-basic-discord-bot-with-python/'>How to Build a Basic Discord Storytelling, Chat, and Mental Wellness Bot with Python</a> by Eva J Patel
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
