@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/neural-networks-explained-simply-in-python/'>Neural Networks Explained: What They Are and How to Build One in Python</a> by Eva J Patel
-2. <a href='https://www.freecodecamp.org/news/how-sensors-collect-process-and-track-data-in-wearables/'>How Sensors Collect, Process, and Track Data in Wearable Devices</a> by Reetain Raina
+1. <a href='https://www.freecodecamp.org/news/how-to-build-referral-aware-split-payment-flows-in-django/'>How to Build Referral-Aware Split Payment Flows in Django</a> by Chidozie Managwu
+2. <a href='https://www.freecodecamp.org/news/neural-networks-explained-simply-in-python/'>Neural Networks Explained: What They Are and How to Build One in Python</a> by Eva J Patel
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
