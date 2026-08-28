@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/build-a-market-time-machine-replay-trading-sessions-with-python-and-websockets/'>Build a Market Time Machine: Replay Trading Sessions with Python and WebSockets</a> by Nikhil Adithyan
-2. <a href='https://www.freecodecamp.org/news/how-to-fix-a-leaked-api-key/'>How to Fix a Leaked API Key: A Developer’s Guide to Git Security</a> by Eva J Patel
+1. <a href='https://www.freecodecamp.org/news/from-mixtral-to-kimi-k3-how-mixture-of-experts-models-evolved/'>From Mixtral to Kimi K3: How Mixture-of-Experts Models Evolved</a> by Botao Deng
+2. <a href='https://www.freecodecamp.org/news/how-to-get-reliable-structured-data-out-of-an-llm/'>How to Get Reliable Structured Data Out of an LLM</a> by Vineeth Pawar
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
