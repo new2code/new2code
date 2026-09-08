@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/from-mixtral-to-kimi-k3-how-mixture-of-experts-models-evolved/'>From Mixtral to Kimi K3: How Mixture-of-Experts Models Evolved</a> by Botao Deng
-2. <a href='https://www.freecodecamp.org/news/how-to-get-reliable-structured-data-out-of-an-llm/'>How to Get Reliable Structured Data Out of an LLM</a> by Vineeth Pawar
+1. <a href='https://www.freecodecamp.org/news/gamepad-api-javascript-guide/'>The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript</a> by taimoor bamazai
+2. <a href='https://www.freecodecamp.org/news/how-to-build-a-scholarship-research-mcp-server-with-node-js-express-and-mongodb/'>How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB</a> by Chinedu Otutu
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
