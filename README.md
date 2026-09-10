@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/gamepad-api-javascript-guide/'>The Gamepad API Lies to You: A Practical Guide to Reading Controller Input in JavaScript</a> by taimoor bamazai
-2. <a href='https://www.freecodecamp.org/news/how-to-build-a-scholarship-research-mcp-server-with-node-js-express-and-mongodb/'>How to Build a Scholarship Research MCP Server with Node.js, Express, and MongoDB</a> by Chinedu Otutu
+1. <a href='https://www.freecodecamp.org/news/how-to-use-gradio-with-python-beginner-to-advanced-book/'>How to Use Gradio with Python: A Complete Beginner-to-Advanced Book</a> by Eva J Patel
+2. <a href='https://www.freecodecamp.org/news/learn-python-interactively/'>Learn Python Interactively</a> by Beau Carnes
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
