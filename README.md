@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-use-gradio-with-python-beginner-to-advanced-book/'>How to Use Gradio with Python: A Complete Beginner-to-Advanced Book</a> by Eva J Patel
-2. <a href='https://www.freecodecamp.org/news/learn-python-interactively/'>Learn Python Interactively</a> by Beau Carnes
+1. <a href='https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/'>How to Prevent Race Conditions in Django</a> by Mari
+2. <a href='https://www.freecodecamp.org/news/build-a-self-evaluating-ai-system-automated-testing-and-evaluation-pipelines-for-llm-apps/'>How to Build a Self-Evaluating AI System: Automated Testing and Evaluation Pipelines for LLM Applications</a> by Jude Otine
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
