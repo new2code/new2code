@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/catch-security-vulnerabilities-code-pull-requests/'>How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests</a> by Umair Mirza
-2. <a href='https://www.freecodecamp.org/news/how-to-prevent-race-conditions-in-django/'>How to Prevent Race Conditions in Django</a> by Mari
+1. <a href='https://www.freecodecamp.org/news/hands-on-evolution-of-deep-learning-geoffrey-hinton-s-ai-legacy/'>Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy</a> by Beau Carnes
+2. <a href='https://www.freecodecamp.org/news/catch-security-vulnerabilities-code-pull-requests/'>How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests</a> by Umair Mirza
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
