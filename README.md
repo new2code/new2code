@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/hands-on-evolution-of-deep-learning-geoffrey-hinton-s-ai-legacy/'>Hands-On Evolution of Deep Learning – Geoffrey Hinton’s AI Legacy</a> by Beau Carnes
-2. <a href='https://www.freecodecamp.org/news/catch-security-vulnerabilities-code-pull-requests/'>How to Catch Security Vulnerabilities in Code Before They Reach Your Pull Requests</a> by Umair Mirza
+1. <a href='https://www.freecodecamp.org/news/how-to-turn-a-recist-line-into-a-3d-tumor-segmentation-mask/'>How to Turn a RECIST Line into a 3D Tumor Segmentation Mask</a> by Lakshmi Mahabaleshwara
+2. <a href='https://www.freecodecamp.org/news/how-ai-coding-assistants-can-help-you-debug-without-writing-the-code-for-you/'>How AI Coding Assistants Can Help You Debug Without Writing the Code for You</a> by GAYATHRI BOLINENI
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
