@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-turn-a-recist-line-into-a-3d-tumor-segmentation-mask/'>How to Turn a RECIST Line into a 3D Tumor Segmentation Mask</a> by Lakshmi Mahabaleshwara
-2. <a href='https://www.freecodecamp.org/news/how-ai-coding-assistants-can-help-you-debug-without-writing-the-code-for-you/'>How AI Coding Assistants Can Help You Debug Without Writing the Code for You</a> by GAYATHRI BOLINENI
+1. <a href='https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/'>How to Build a GraphRAG System with Python, Neo4j and ServiceNow</a> by RONI DAS
+2. <a href='https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/'>How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph</a> by Kayode Adeniyi
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
