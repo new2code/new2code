@@ -26,7 +26,7 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/'>How to Build a GraphRAG System with Python, Neo4j and ServiceNow</a> by RONI DAS
+1. <a href='https://www.freecodecamp.org/news/how-to-build-a-graphrag-system-with-python-neo4j-and-servicenow/'>How to Build a GraphRAG System with Python, Neo4j and ServiceNow [Full Book]</a> by RONI DAS
 2. <a href='https://www.freecodecamp.org/news/how-to-detect-hidden-target-leakage-in-public-datasets-with-python-and-a-dependency-graph/'>How to Detect Hidden Target Leakage in Public Datasets with Python and a Dependency Graph</a> by Kayode Adeniyi
 
 > [!NOTE]
