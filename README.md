@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-a-real-time-word-counter-tool-with-html-css-and-javascript/'>How to Build a Real-Time Word Counter Tool with HTML, CSS, and JavaScript</a> by Bansidhar Kadiya
-2. <a href='https://www.freecodecamp.org/news/python-algorithmic-trading-with-snaptrade-massive-alpaca/'>Python Algorithmic Trading with SnapTrade, Massive, Alpaca</a> by Beau Carnes
+1. <a href='https://www.freecodecamp.org/news/nodejs-and-expressjs-handbook-for-beginners/'>The Node.js and Express.js Handbook for Beginners – Servers, Routes, Routers, and Views Explained</a> by Oluwatobi Sofela
+2. <a href='https://www.freecodecamp.org/news/css-content-visibility-rendering-performance/'>How CSS content-visibility Works and How It Can Improve Rendering Performance</a> by Ayman Eldawy
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
