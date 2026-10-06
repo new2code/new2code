@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-submit-a-quarterly-update-to-hmrc-making-tax-digital-api/'>How to Submit a Quarterly Update to HMRC's Making Tax Digital API</a> by Solomon Amos
-2. <a href='https://www.freecodecamp.org/news/build-an-ai-support-system-that-automatically-routes-bugs-to-github/'>How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev</a> by Andrew Baisden
+1. <a href='https://www.freecodecamp.org/news/ai-email-deliverability-explained/'>How AI Is Changing Email Deliverability: A Technical Guide to Sender Reputation and Inbox Placement</a> by Reetain Raina
+2. <a href='https://www.freecodecamp.org/news/how-to-submit-a-quarterly-update-to-hmrc-making-tax-digital-api/'>How to Submit a Quarterly Update to HMRC's Making Tax Digital API</a> by Solomon Amos
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
