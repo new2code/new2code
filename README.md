@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-stop-an-ai-agent-from-inventing-nigerian-postcodes/'>How to Stop an AI Agent from Inventing Nigerian Postcodes</a> by Kayode Adeniyi
-2. <a href='https://www.freecodecamp.org/news/how-to-create-system-design-diagrams-using-python/'>How to Create System Design Diagrams using Python</a> by Zaira Hira
+1. <a href='https://www.freecodecamp.org/news/build-ephemeral-pr-preview-environments-on-gke-with-github-actions-ingress-automatic-tls/'>How to Build Ephemeral PR Preview Environments on GKE with GitHub Actions, Ingress, and Automatic TLS</a> by Amina Lawal
+2. <a href='https://www.freecodecamp.org/news/how-to-give-ai-agent-safe-access-internal-api-mcp/'>How to Give an AI Agent Safe Access to an Internal API with MCP</a> by Harish Gaggar
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
