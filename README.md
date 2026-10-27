@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/'>What Is Model Distillation? A Guide for Developers</a> by Mene-Ejegi Ogbemi
-2. <a href='https://www.freecodecamp.org/news/how-neural-networks-work-why-straight-lines-aren-t-enough/'>How Neural Networks Work: Why Straight Lines Aren't Enough</a> by Samyukta Hegde
+1. <a href='https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/'>How to Build a Simple Data Analyzer in Python with Pandas</a> by Eva J Patel
+2. <a href='https://www.freecodecamp.org/news/what-is-model-distillation-a-guide-for-developers/'>What Is Model Distillation? A Guide for Developers</a> by Mene-Ejegi Ogbemi
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
