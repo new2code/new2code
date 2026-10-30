@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-build-a-command-line-weather-app-with-python/'>How to Build a Command-Line Weather App with Python</a> by Sameer Qaiser
-2. <a href='https://www.freecodecamp.org/news/how-to-build-a-simple-data-analyzer-in-python-with-pandas/'>How to Build a Simple Data Analyzer in Python with Pandas</a> by Eva J Patel
+1. <a href='https://www.freecodecamp.org/news/python-in-marketing-a-practical-book/'>Python in Marketing: A Practical Guide to Marketing Analytics, Automation, and Data-Driven Growth [Full Book]</a> by Eva J Patel
+2. <a href='https://www.freecodecamp.org/news/how-to-build-a-command-line-weather-app-with-python/'>How to Build a Command-Line Weather App with Python</a> by Sameer Qaiser
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
