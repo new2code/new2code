@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/'>How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes</a> by Samuel Tosin
-2. <a href='https://www.freecodecamp.org/news/speed-up-ci-in-the-age-of-ai-written-code/'>How to Speed Up CI in the Age of AI-Written Code</a> by Manish Shivanandhan
+1. <a href='https://www.freecodecamp.org/news/learn-data-structures-and-algorithms-in-python-with-visualizations/'>Learn Data Structures and Algorithms in Python with Visualizations</a> by Beau Carnes
+2. <a href='https://www.freecodecamp.org/news/build-nlp-pipeline-python-therapy-notes/'>How to Build an NLP Pipeline in Python to Analyze Therapy Progress Notes</a> by Samuel Tosin
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
