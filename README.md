@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/'>How to Write an API Migration Guide (With a Real Example)</a> by Chosen Vincent
-2. <a href='https://www.freecodecamp.org/news/how-to-scrape-websites-in-python-with-olostep/'>How to Scrape Websites in Python with Olostep</a> by Bala Priya C
+1. <a href='https://www.freecodecamp.org/news/how-to-use-the-github-cli-with-github-actions/'>How to Use the GitHub CLI with GitHub Actions</a> by Rajdeep Singh
+2. <a href='https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/'>How to Write an API Migration Guide (With a Real Example)</a> by Chosen Vincent
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
