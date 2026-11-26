@@ -26,8 +26,8 @@ Days remaining: <span id="countdown" style="font-size:1.3em; color:#6e40c9; font
 ## Recent posts from [freeCodeCamp](https://www.freecodecamp.org/news/)
 🤖 The [`update_readme.py` script](./update_readme.py) and [`update_readme.yml` GitHub Actions workflow](.github/workflows/update_readme.yml) regularly update this list with posts about Python, JavaScript, HTML, CSS, and learning coding.
 
-1. <a href='https://www.freecodecamp.org/news/how-to-use-the-github-cli-with-github-actions/'>How to Use the GitHub CLI with GitHub Actions</a> by Rajdeep Singh
-2. <a href='https://www.freecodecamp.org/news/how-to-write-an-api-migration-guide/'>How to Write an API Migration Guide (With a Real Example)</a> by Chosen Vincent
+1. <a href='https://www.freecodecamp.org/news/how-to-deploy-to-amazon-s3-using-gitlab-ci-cd-and-aws-oidc-without-aws-access-keys/'>How to Deploy to Amazon S3 Using GitLab CI/CD and AWS OIDC Without AWS Access Keys</a> by Ijeoma Igboagu
+2. <a href='https://www.freecodecamp.org/news/how-to-use-the-github-cli-with-github-actions/'>How to Use the GitHub CLI with GitHub Actions</a> by Rajdeep Singh
 
 > [!NOTE]
 > This account is maintained by the GitHub Docs team for demonstration purposes.
